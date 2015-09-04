@@ -1,1 +1,1 @@
-# cs186-sp15
+# CS 186 Discussion Slides
